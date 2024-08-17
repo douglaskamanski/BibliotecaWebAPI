@@ -1,6 +1,6 @@
 ### Objetivos <h3>
 Esse projeto tem o objetivo principal de servir como portfólio para demonstrar o uso da linguagem C# com framework ASP.NET Core, seus pacotes e ferramentas.<p>
-Também tem o intuito de estudo, desenvolvimento profissional e registo de minha envolução utilizando essas tecnologias. <p>
+Também tem o intuito de estudo, desenvolvimento profissional e registo de minha evolução utilizando essas tecnologias. <p>
 ### Descrição da API <h3>
 CRUD de Autores e Livros <p>
 ### Tecnologias utilizadas <h3>
